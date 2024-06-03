@@ -1,0 +1,19 @@
+body{
+    background-image: url("images/background-building.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#clock{
+    text-align: center;
+    color:white;
+    font-size: 6.5em;
+    font-family:monospace;
+    font-weight: bold;
+}
+.container{
+    width:95vw;
+    height:95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
